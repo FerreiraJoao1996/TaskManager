@@ -3,7 +3,7 @@
 #### A IMPLEMENTAR
 
 - index de apresentação;
-- index de manipulação;
+- página de manipulação do conteúdo;
 - banco de dados;
 - CRUD;
 - autenticação de usuário;
